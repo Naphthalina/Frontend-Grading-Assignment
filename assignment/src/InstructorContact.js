@@ -17,7 +17,7 @@ const InstructorContact = () => {
   const instructors = [
     { name: 'Instructor 1', email: 'instructor1@email.com', phone: '123-456-7890', image: '/images/harvey.jpeg',officeHours: 'Monday 10:00 AM - 12:00 PM', socialMedia: 'https://linkedin.com/in/instructor1', officeLocation: 'Building A, Room 101' },
     { name: 'Instructor 2', email: 'instructor2@email.com', phone: '234-567-8901', image: '/images/hari.jpeg', officeHours: 'Wednesday 2:00 PM - 4:00 PM', socialMedia: 'https://linkedin.com/in/instructor2', officeLocation: 'Building B, Room 202' },
-    { name: 'Instructor 3', email: 'instructor3@email.com', phone: '345-678-9012', image: '/images/annalise.jpg', officeHours: 'Friday 1:00 PM - 3:00 PM', socialMedia: 'https://linkedin.com/in/instructor3', officeLocation: 'Building C, Room 303' },
+    { name: 'Annalise Keating', email: 'annalisekeating@email.com', phone: '345-678-9012', image: '/images/annalise.jpg', officeHours: 'Friday 1:00 PM - 3:00 PM', socialMedia: 'https://linkedin.com/in/instructor3', officeLocation: 'Building C, Room 303' },
   ];
 
   return (
