@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Screenshots OF My Website
+
+### Home Page Screenshots
+![home1](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/df64b353-cd16-45dd-aa3c-92aecac616b0)
+![home2](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/4539e04b-ab44-44de-968e-579abffaffc5)
+
+### LogIn Page Screenshot
+![login-page](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/acc205ed-d264-4fb0-82df-0fbe30aee3ea)
+
+### Dashboard Page Screenshots
+![dashboard1](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/e86a3117-30b2-4805-b92a-46a130449327)
+![dashboard2](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/c1b1adcd-7b20-4dd1-b6b6-c3304c92d163)
+![dashboard3](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/746dfb6f-31ce-49d8-9530-2f5cefaba8f0)
+
+### Grade Report Page Screenshots
+![gradereport1](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/dce33fdc-41d2-4b94-bc1a-012adda5e08f)
+![gradereport2](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/2b1010b8-45b9-4303-8c7d-141b46e5e020)
+
+### Missing Grade Report Page Screenshot
+![missing-grade-form](https://github.com/Naphthalina/Frontend-Grading-Assignment/assets/150922615/f5929153-0026-4e07-ad78-b710cb80960a)
+
+
+
+
+
